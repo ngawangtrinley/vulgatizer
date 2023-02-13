@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-## _OpenPecha Project Template_
+## Vulgatizer
 
 ## Owner(s)
 
